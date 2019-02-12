@@ -1,0 +1,77 @@
+.main{
+   position: absolute;
+    /* Height and width fallback for older browsers. */
+    height: 100%;
+    width: 100%;
+
+    /* Set the height to match that of the viewport. */
+    height: 100vh;
+
+    /* Set the width to match that of the viewport. */
+    width: 100vw;
+
+    /* Remove any browser-default margins. */
+    margin: 0;
+ }
+
+ .text-right{
+    margin-left: 1%;
+   color:#44ffffdc;
+   font-size: 25px
+ }
+ .htext{
+  color:#44ffffdc;
+}
+
+
+.color{
+   background-color:#34c2c2dc; 
+}
+.tborder{
+   border: 1px solid #219292;
+}
+
+
+.search{
+width:50%;
+position: relative;
+margin-left:25%;
+padding-top: 5%;
+}
+
+.srchinput{
+         border-style: none;
+         border-bottom: 2px solid #4dd0e1;
+         }
+
+.cont{
+ position: relative;
+   }
+   
+.mytable{
+      width:50%;
+      position: relative;
+      left:25%;
+      padding-top:2%;
+      }
+      
+.content{
+   border:1px solid rgb(206, 194, 194);
+   border-radius:5px;
+   width:100%;
+}
+.iconcol{
+   width:20%
+}
+.titlecol{
+   width:15%
+     }
+.contcol{
+      width:45%
+        }
+.datecol{
+    width:20%
+            }
+.dropdown-menu{
+  min-width: 20px ;
+}
